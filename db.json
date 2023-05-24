@@ -13,10 +13,10 @@
       "reminder": false
     },
     {
-      "text": "Test Test",
-      "day": "May 5th",
+      "text": "hello hello hello",
+      "day": "may 5th at 12:40pm",
       "reminder": true,
-      "id": 4
+      "id": 6
     }
   ]
 }
